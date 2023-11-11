@@ -1,0 +1,2 @@
+ogretici_paket/Vectore3 linear
+ogretici_paket/Vectore3 angular
